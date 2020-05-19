@@ -11,3 +11,6 @@
 - S3からのDLも費用かかることに注意
 - EC2やRDSの常時ONは特に注意
 - EC2切ったときはElastic IPの切断も忘れずに!
+
+## 設計関連
+- AWSロゴの素材は[ココ](https://aws.amazon.com/jp/architecture/icons/)から
