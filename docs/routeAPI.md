@@ -13,4 +13,14 @@
 1. まとめ・発表
 
 ## OSMの調査
+- ザクっと調査して一応完了
+- 内容はOSM周辺のサービス調査とOSRMのドキュメント読み込み
+- 競合APIの調査やAPI使用頻度見積など今後アップデートする必要あり
+
+- [資料](https://docs.google.com/presentation/d/1pzrAYqSIeWX3as0jGGMnKuD_irQcHfbkumQ2E5qgwD4/edit#slide=id.g783aacf507_0_414)
+
+## OSMの実装
+### AWSの設計
+### 環境構築
+### テスト
 
