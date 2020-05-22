@@ -5,3 +5,5 @@
 - [Route API](docs/routeAPI.md)
 - [AWS使用関連](docs/AWS.md)
 - [MDSの構成](docs/MDS.md)
+- [議事録](docs/mtg.md)
+- [組織図]()

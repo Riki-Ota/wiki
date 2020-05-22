@@ -7,7 +7,6 @@
 - [DataPFのAWS構成](https://github.com/monet-technologies-com/factory-aws-infra)
   - バッチ層ではサーバーレスでDBまでつなぐ
 
-
 ## データ詳細
 - [マスタ表](https://docs.google.com/spreadsheets/d/15tOEizG27VbHEPCi-DWB-ZOAT36WmYsgWNH1fXi1VR8/edit#gid=0)
 - [プロバイダデータの詳細](https://monet-tech.backlog.com/file/PF19_1/000_%E3%82%A4%E3%83%B3%E3%83%97%E3%83%83%E3%83%88%E8%B3%87%E6%96%99/)
