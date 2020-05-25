@@ -14,3 +14,23 @@
 
 ## 設計関連
 - AWSロゴの素材は[ココ](https://aws.amazon.com/jp/architecture/icons/)から
+
+## CLI設定
+### 参考
+- [初期設定①](https://qiita.com/reflet/items/e4225435fe692663b705)
+- [初期設定②](https://qiita.com/n0bisuke/items/1ea245318283fa118f4a)
+- [スイッチロールの設定](https://dev.classmethod.jp/articles/cli-switch-role/
+)
+
+defaultのユーザーを設定
+アクセスキーは以前高須さんが送ってくれた
+'''
+aws config
+'''
+あとは打ち込んで設定
+
+devやprodも`~/.aws/config`の中を変えて登録
+プロファイルを確認
+'''
+aws sts get-caller-identity --profile dev
+'''
