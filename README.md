@@ -7,6 +7,7 @@
 - [MDSの構成](docs/MDS.md)
 - [議事録](docs/mtg.md)
 - [組織図]()
+- [Git](docs/git.md)
 
 
 CLI設定とufwと組織図を追記すること

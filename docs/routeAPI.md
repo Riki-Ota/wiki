@@ -67,6 +67,8 @@ curl 'http://3.112.58.43:5000/route/v1/driving/139.761180,35.663176;139.741633,3
 
 出てきたjsonファイルを[ココ](http://geojson.io/)で可視化
 
+Ubuntu16に関しては[ココ](https://paris-fire-brigade.github.io/data-challenge/post/2019/06/13/06-set-up-an-osrm-server-on-ubuntu.html)参考にした方がいいかも
+
 ### 詰まったところメモ
 - ポートは5000がデフォルト
 - Ubuntu側でもFWを設定できる(しなくてもよい)
