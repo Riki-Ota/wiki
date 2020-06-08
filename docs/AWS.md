@@ -34,3 +34,6 @@ devやprodも`~/.aws/config`の中を変えて登録
 '''
 aws sts get-caller-identity --profile dev
 '''
+
+### aws-cli v2 インストール
+https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/install-cliv2-windows.html
